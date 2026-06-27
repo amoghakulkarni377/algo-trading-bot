@@ -10,9 +10,6 @@ NSE stock trading bot built with Python.
 ## Tools
 - Python, Jupyter, yfinance, pandas, matplotlib
 
-## Output 
-![Output Waveform](images/output waveform.png)
-
 ## Results
 - Stock: Adani Enterprise (ADANIENT.NS)
 - Period: 6 months
